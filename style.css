@@ -1,0 +1,139 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg{
+    background-color:#316DC3 ;
+    padding-top: 10px;
+    padding-bottom: 1px;
+}
+@media (max-width: 575.8px) {
+    .logo {
+        width: 155px !important;
+    }
+ }
+.navpositon{
+    z-index: 1;
+    background-color: white;
+    position: fix;
+    position: relative;
+}
+.navb{
+    background-color:#316DC3 ;
+}
+.hoverb a{
+    font-size: 14.5px;
+    padding-right: 15px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.homeactive{
+    background-color: #316DC3 !important;
+    color: white !important;
+    border-radius: 20px;
+} 
+.hoverb a:hover{
+background: #316DC3 ;
+border-radius: 20px;
+color: white !important;
+}
+
+.imgheader{
+    width: 25px;
+    border: none;
+    background: none;
+}
+.box{
+    text-align: center;
+}
+.logo{
+    width: 200px;
+}
+.center{
+    text-align: center;
+}
+.pbgcolor{
+    background-color: #f7f8fa;
+    padding-bottom: 100px;
+    padding-top: 30px;
+
+}
+.p1{
+    text-align: justify;
+    margin-top: 20px;
+}
+.ratiobox{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    background-color:#244ff2;
+}
+.ratiotext{
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+}
+/*for what we are doing */
+.pbg{
+    padding-top: 60px;
+    padding-bottom: 130px;
+    background-color: #f7f8fa;
+}
+.boxshadow{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.boxmargn{
+    margin-top: 25px;
+}
+.boxtext{
+    padding-top: 15px;
+    color:#244ff2;
+    font-size: 20px;
+    font-weight: 600;
+}
+/* for mission and upcoming projects*/
+.pbg1{
+    padding-top: 60px;
+    
+}
+.boxbg{
+    background-color: #f7f8fa;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+.fonts{
+  font-size: 18px;
+  font-weight: 600;
+  margin-left: 80px;
+  color:#244ff2 ;
+}
+.imgbox{
+    position: absolute;
+    top: 20px;
+    left: 35px;
+}
+
+
+/*for gallery */
+.pbg2{
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+/* for footer */
+.bg3{
+    background-color: #25272e;
+    padding-top: 65px;
+    padding-bottom: 40px;
+}
+
+/*for footer2 */
+.bg4{
+ background-color:#316DC3  ;
+ padding-top: 10px;
+ padding-bottom: 10px;
+}
+.phone{
+    color: green;
+    background-color: green;
+}
